@@ -87,7 +87,7 @@ a {
 	height: 0px;
 	line-height:60px ;
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 520px) {
 	label {
 	text-align: center;
 	cursor: pointer;
